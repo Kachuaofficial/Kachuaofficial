@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kachuaofficial
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Developing Android apps and games
+- 🌱 I’m currently learning Kotlin
 Email - shivammisra2021@gmail.com
 
 <!---
